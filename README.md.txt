@@ -7,7 +7,9 @@ This contains all Lab work with proper code.
 * LAB 3 (Introduction to Concurrency)
 * LAB 4 (Start, Sleep & Stop methods of multithreading)
 * LAB 5 (Inter-Thread Communication)
+* LAB 6 (Deadlock in Concurrency)
 # Author
 Aruba Hassan , BSE , SSUET
+
 
 
